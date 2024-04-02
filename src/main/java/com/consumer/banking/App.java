@@ -8,6 +8,6 @@ public class App
 {
 public static void main( String[] args )
     {
-        System.out.println( "again third time changes for poll scm build trigger" );
+        System.out.println( "again fourth time changes for poll scm build trigger" );
     }
 }

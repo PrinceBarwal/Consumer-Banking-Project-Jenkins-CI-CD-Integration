@@ -9,17 +9,7 @@
   <url>http://maven.apache.org</url>
 
 
-  <build>
-	<plugins>
-		<plugin>
-			<artifactId>maven-war-plugin</artifactId>
-			<version>1.6.3</version>
-			<groupId>org.apache.maven.plugins</groupId>
-		</plugin>
-	
-		</plugins>
-  </build>
-  
+ 
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
